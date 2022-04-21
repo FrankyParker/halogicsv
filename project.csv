@@ -1,0 +1,4 @@
+name,lat,long,address,store
+test1,-96.46600398,43.58040921,add 1,store1
+test2,-96.46600398,43.584,add 2,store2
+test3,-96.46600398,43.684,add 3,store3
